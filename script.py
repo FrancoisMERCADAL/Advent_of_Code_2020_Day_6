@@ -50,9 +50,9 @@ def custom_customs_part_2():
 
 ### TEST AREA
 ## PART 1
-#print(custom_customs_part_1())
+print(custom_customs_part_1())
 ## OUTPUT: 6735
 
 ## PART 2
-#print(custom_customs_part_2())
+print(custom_customs_part_2())
 ## OUTPUT: 3221
